@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/ds7zamffx/image/upload/v1685601373/test/stock-vector-web-development-banner-web-icon-for-business-website-programing-usability-coding-developer-1812243436_pykgq5.jpg)](https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/ds7zamffx/image/upload/v1685601373/test/stock-vector-web-development-banner-web-icon-for-business-website-programing-usability-coding-developer-1812243436_pykgq5.jpg)](https://www.linkedin.com/in/indra18/)
 <h1 align="center">Hi 👋, I'm Indra</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.graweb.com.br/_nuxt/img/animation.797c5a6.gif"/>
