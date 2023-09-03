@@ -25,5 +25,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indra-18&" alt="indra-18" /></p>
 
+<h3>Joke of The Day:</h3>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indra-18" alt="indra-18" /></a> </p>
 
